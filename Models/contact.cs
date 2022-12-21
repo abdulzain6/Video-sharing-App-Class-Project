@@ -27,11 +27,7 @@ namespace test.Models
 
         [Required]
         [StringLength(100)]
-        public string FirstName { get; set; }
-
-        [Required]
-        [StringLength(100)]
-        public string LastName { get; set; }
+        public string Name { get; set; }
 
         [Required]
         [StringLength(100)]
@@ -44,8 +40,5 @@ namespace test.Models
 
         [StringLength(500)]
         public string Address { get; set; }
-
-        [StringLength(500)]
-        public string Notes { get; set; }
     }
 }

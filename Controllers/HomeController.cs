@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using Microsoft.AspNetCore.Mvc;
+using System;
 using test.Models;
 
 namespace test.Controllers;
@@ -30,23 +30,22 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    [HttpGet]
     public IActionResult Contact()
     {
         return View();
     }
 
     [HttpPost]
-    [ValidateAntiForgeryToken]
-    public IActionResult Create([Bind("FirstName,LastName,Email,Phone,Address,Notes")] Contact contact)
+    public IActionResult Contact(Contact contact)
     {
         if (ModelState.IsValid)
         {
             _context.Add(contact);
             _context.SaveChanges();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction("Index");
         }
-        return View(contact);
+        return View("Contact");
     }
 
 
