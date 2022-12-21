@@ -26,10 +26,6 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Create()
-    {
-        return View();
-    }
     [HttpGet]
     public IActionResult Contact()
     {
