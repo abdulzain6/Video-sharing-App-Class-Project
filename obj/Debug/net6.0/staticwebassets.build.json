@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sjTaoKQjSvwE7qtODBiPPkO1b4EbsS0uFRFDl3dso58=",
+  "Hash": "OZZDembHqWEBWqQK0lhV5QAv2Y2rDcpmXOQJBRCcCLc=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "test/wwwroot",
       "Source": "test",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/css/main.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/css/main.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot/css/main.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/css/reset.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/css/reset.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "css/reset.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/css/reset.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/favicon.ico",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/favicon.ico",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/1.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/1.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/1.jpg",
+      "RelativePath": "images/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/1.jpg"
+      "OriginalItemSpec": "wwwroot/images/1.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/aside-pic.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/aside-pic.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/aside-pic.jpg",
+      "RelativePath": "images/aside-pic.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/aside-pic.jpg"
+      "OriginalItemSpec": "wwwroot/images/aside-pic.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/describe-icons.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/describe-icons.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/describe-icons.jpg",
+      "RelativePath": "images/describe-icons.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/describe-icons.jpg"
+      "OriginalItemSpec": "wwwroot/images/describe-icons.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/describe-name.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/describe-name.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/describe-name.jpg",
+      "RelativePath": "images/describe-name.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/describe-name.jpg"
+      "OriginalItemSpec": "wwwroot/images/describe-name.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/dislike.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/dislike.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/dislike.jpg",
+      "RelativePath": "images/dislike.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/dislike.jpg"
+      "OriginalItemSpec": "wwwroot/images/dislike.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/bell.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/bell.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/bell.png",
+      "RelativePath": "images/header/bell.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/bell.png"
+      "OriginalItemSpec": "wwwroot/images/header/bell.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/grid.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/grid.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/grid.png",
+      "RelativePath": "images/header/grid.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/grid.png"
+      "OriginalItemSpec": "wwwroot/images/header/grid.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/hamburger.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/hamburger.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/hamburger.png",
+      "RelativePath": "images/header/hamburger.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/hamburger.png"
+      "OriginalItemSpec": "wwwroot/images/header/hamburger.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/profile-placeholder.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/profile-placeholder.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/profile-placeholder.png",
+      "RelativePath": "images/header/profile-placeholder.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/profile-placeholder.png"
+      "OriginalItemSpec": "wwwroot/images/header/profile-placeholder.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/search.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/search.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/search.png",
+      "RelativePath": "images/header/search.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/search.png"
+      "OriginalItemSpec": "wwwroot/images/header/search.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/upload.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/upload.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/upload.png",
+      "RelativePath": "images/header/upload.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/upload.png"
+      "OriginalItemSpec": "wwwroot/images/header/upload.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/header/yt-logo.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/header/yt-logo.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/header/yt-logo.png",
+      "RelativePath": "images/header/yt-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/header/yt-logo.png"
+      "OriginalItemSpec": "wwwroot/images/header/yt-logo.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/like.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/like.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/like.jpg",
+      "RelativePath": "images/like.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/like.jpg"
+      "OriginalItemSpec": "wwwroot/images/like.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/profile_icon.png",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/profile_icon.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/profile_icon.png",
+      "RelativePath": "images/profile_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/profile_icon.png"
+      "OriginalItemSpec": "wwwroot/images/profile_icon.png"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/sort.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/sort.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/sort.jpg",
+      "RelativePath": "images/sort.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/sort.jpg"
+      "OriginalItemSpec": "wwwroot/images/sort.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/images/images/subscribed.jpg",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/images/subscribed.jpg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
-      "RelativePath": "images/images/subscribed.jpg",
+      "RelativePath": "images/subscribed.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/images/subscribed.jpg"
+      "OriginalItemSpec": "wwwroot/images/subscribed.jpg"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/js/site.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/js/site.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/zain/Documents/test/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zain/Documents/test/wwwroot/",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
       "BasePath": "_content/test",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

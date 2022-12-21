@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zain/Documents/test/test.csproj": {}
+    "/home/zain/New Folder/Video-sharing-App-Class-Project/test.csproj": {}
   },
   "projects": {
-    "/home/zain/Documents/test/test.csproj": {
+    "/home/zain/New Folder/Video-sharing-App-Class-Project/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zain/Documents/test/test.csproj",
+        "projectUniqueName": "/home/zain/New Folder/Video-sharing-App-Class-Project/test.csproj",
         "projectName": "test",
-        "projectPath": "/home/zain/Documents/test/test.csproj",
+        "projectPath": "/home/zain/New Folder/Video-sharing-App-Class-Project/test.csproj",
         "packagesPath": "/home/zain/.nuget/packages/",
-        "outputPath": "/home/zain/Documents/test/obj/",
+        "outputPath": "/home/zain/New Folder/Video-sharing-App-Class-Project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zain/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
