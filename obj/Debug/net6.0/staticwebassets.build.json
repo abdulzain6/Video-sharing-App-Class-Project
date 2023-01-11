@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OZZDembHqWEBWqQK0lhV5QAv2Y2rDcpmXOQJBRCcCLc=",
+  "Hash": "Zgqx8BuWm/loNOclhE/++ZioI2GMQKuMUatTJH49XtI=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/css/fontfile.css",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
+      "BasePath": "_content/test",
+      "RelativePath": "css/fontfile.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/fontfile.css"
+    },
     {
       "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/css/main.css",
       "SourceId": "test",
@@ -338,6 +355,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/subscribed.jpg"
+    },
+    {
+      "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/js/jquery.js",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/",
+      "BasePath": "_content/test",
+      "RelativePath": "js/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/jquery.js"
     },
     {
       "Identity": "/home/zain/New Folder/Video-sharing-App-Class-Project/wwwroot/js/site.js",

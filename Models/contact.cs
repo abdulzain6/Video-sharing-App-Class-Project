@@ -5,20 +5,6 @@ using test.Models;
 
 
 
-
-namespace test
-{
-    public class ContactDBContext : DbContext
-    {
-        public ContactDBContext(DbContextOptions<ContactDBContext> options)
-            : base(options)
-        {
-        }
-
-        public DbSet<Contact> Contacts { get; set; }
-    }
-}
-
 namespace test.Models
 {
     public class Contact

@@ -1,0 +1,35 @@
+@{
+    Layout = "~/Views/Home/layout.cshtml";
+}
+
+
+<div id="container" class="page-details ">
+    <div id="content">
+        
+        <div class="file">
+            <div class="metadata-bar">
+                <div class="filesize">
+                    Downlaod File: 
+                </div>
+
+                <div class="buttons">
+                    <a href="" class="download" id="link">Direct Link</a>
+                    
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<script>
+var host = window.location.host;
+console.log("Host", host)
+link = "@ViewBag.link"
+document.getElementById("link").setAttribute("href", `https://${host}/Home/FileDownload/${link}`);
+
+</script>
+
+
